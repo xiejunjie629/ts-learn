@@ -1,0 +1,11 @@
+// {
+//     "files": [ // 编译的文件
+//         "src/index.ts"
+//     ],
+//     "include": [ // src的一级目录下的文件
+//         "src/*"
+//     ],
+//     "exclude": [ // 不包含的文件  
+//     ],
+//     "extends": "./tsconfig" // 合并文件配置
+// }
